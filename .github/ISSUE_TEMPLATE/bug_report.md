@@ -7,32 +7,32 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+---
+name: Bug Report
+about: Report a bug to help us improve
+title: "[Bug] 제목을 입력하세요"
+labels: bug
+assignees: ''
 
-**To Reproduce**
-Steps to reproduce the behavior:
+---
+
+**버그 설명**
+어떤 문제가 발생했는지 명확히 설명해주세요.
+
+**재현 방법**
+문제를 재현하기 위한 단계:
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+2. Click on '...'
+3. Scroll down to '...'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**기대 결과**
+정상적으로 작동했을 때 기대했던 결과를 설명해주세요.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**스크린샷**
+가능하다면 문제를 보여주는 스크린샷을 추가해주세요.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**환경 정보**
+- OS: [예: Windows, macOS]
+- Browser: [예: Chrome, Firefox]
+- Version: [예: 1.0.0]
