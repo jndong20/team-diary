@@ -10,5 +10,5 @@ SEO-DONGJIN도 내일도 점심을 먹었습니다.
 
 SDJ는 모레도 점심을 먹습니다.
 
-git origin/master  10/14
+git origin/master  2025/10/14
 
